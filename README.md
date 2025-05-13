@@ -1,7 +1,6 @@
 # 🍽️ Restaurant Management System (Admin Panel)
-Note:
-🎓 This is my 4th semester project, developed for the ADBMS course, focusing on the integration of PHP and MySQL to implement real-world database-driven systems. 
-
+📚Note : 
+🎓 This is my 4th semester project, developed for the ADBMS course, focusing on the integration of PHP and MySQL to implement real-world database-driven systems.
 This is a web-based **Restaurant Management System** developed using **PHP** and **MySQL** as part of the **Advanced Database Management Systems (ADBMS)** course.
 It is designed to help restaurant administrators manage their core operations like product management, customer information, receipts, and overall backend operations.
 ---
@@ -11,11 +10,8 @@ It is designed to help restaurant administrators manage their core operations li
 - [💻 Technologies Used](#-technologies-used)
 - [📂 Folder Structure](#-folder-structure)
 - [🛠️ Installation Guide](#️-installation-guide)
-- [🗃️ Database Structure](#️-database-structure)
 - [🔐 Admin Demo Login](#-admin-demo-login)
 - [📸 Screenshots](#-screenshots)
-- [📖 ADBMS Concepts Used](#-adbms-concepts-used)
-- [📄 License](#-license)
 ---
 ## 🔧 Features
 
@@ -60,10 +56,27 @@ Click on Import
 
 Choose restaurant_db.sql from the project folder
 
-📸 Screenshots
-Xampp: <img width="501" alt="image" src="https://github.com/user-attachments/assets/4cf55628-b710-44d9-aafb-557fe266f072" />
-Admin : <img width="955" alt="image" src="https://github.com/user-attachments/assets/249c6c32-de28-4337-b4c6-aa8365b2c091" />
-Receipt: <img width="957" alt="image" src="https://github.com/user-attachments/assets/16a7c212-6923-4f0f-a1da-f5dfa6704b5d" />
+📸 Screenshots:
+
+
+Xampp:
+
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/4cf55628-b710-44d9-aafb-557fe266f072" />
+
+Admin :
+
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/249c6c32-de28-4337-b4c6-aa8365b2c091" />
+
+Receipt: 
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/16a7c212-6923-4f0f-a1da-f5dfa6704b5d" />
+
+Orders :  
+
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/27ed13c8-230e-4f73-957b-156f91183744" />
+
+
+
 And many more u can check 
 
 
