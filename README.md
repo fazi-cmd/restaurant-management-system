@@ -1,6 +1,9 @@
 # 🍽️ Restaurant Management System (Admin Panel)
 📚Note : 
+
 🎓 This is my 4th semester project, developed for the ADBMS course, focusing on the integration of PHP and MySQL to implement real-world database-driven systems.
+
+
 This is a web-based **Restaurant Management System** developed using **PHP** and **MySQL** as part of the **Advanced Database Management Systems (ADBMS)** course.
 It is designed to help restaurant administrators manage their core operations like product management, customer information, receipts, and overall backend operations.
 ---
